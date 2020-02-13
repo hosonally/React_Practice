@@ -8,7 +8,7 @@ export default function App() {
     <div>
       {fruitList.map(function(fruit) {
         return (
-          <div>{fruit}</div>
+          <div>{fruit}食べるぜ</div>
         )
       })}
     </div>
